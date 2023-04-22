@@ -1,0 +1,58 @@
+;set Spindle speed 70%
+;mode:3
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+;value:7
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+;Let motorized pot rotate and spindle speed up
+G4 p8
+G4 p8
+G4 p4
+;end of spindle speed set to 70

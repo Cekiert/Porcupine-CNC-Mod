@@ -1,0 +1,59 @@
+;turn air compressor on
+;mode:4
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+;value:2
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+G4 P8
+;End of turn air compressor on 25x8second delay 3min 20 seconds

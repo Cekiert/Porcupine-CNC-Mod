@@ -1,0 +1,29 @@
+;set Spindle speed 100%
+;mode:3
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+;value:1
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+;
+;wait for motorized pot and spindle
+G4 p8
+G4 p8
+G4 p8
+;End of set spindle to 100

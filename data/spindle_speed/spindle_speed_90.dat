@@ -1,0 +1,39 @@
+;set Spindle speed 90%
+;mode:3
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+;value:3
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+;
+;let motorized pot and spindle adjust speed
+G4 p8
+;End of set spindle speed to 90
+
+M2 ;Indicates Program End

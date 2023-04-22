@@ -1,0 +1,16 @@
+;turn mist off
+;mode:1
+M64 P2 Q1
+G4 p.2
+M64 P2 Q0
+G4 p.2
+;
+;value:1
+M64 P3 Q1
+G4 P.2
+M64 P3 Q0
+G4 p.2
+;
+;Pause before sending more code
+G4 p4
+;End of turn off mist
