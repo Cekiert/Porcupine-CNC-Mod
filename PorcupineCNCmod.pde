@@ -54,7 +54,7 @@
 //support the developer. I have no affilation with planet-cnc.com
 //but I am happy with thier software.
 //
-//Porcupine CNC Mod
+//Porcupine CNC Mod https://github.com/Cekiert/Porcupine-CNC-Mod
 //Developed by: Christopher Ekiert, 2023 and released under
 //GNU Lesser General Public License v2.1
 //
